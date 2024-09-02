@@ -1,6 +1,6 @@
 {
   "name": "removebgapi",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -14,7 +14,7 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
-    "puppeteer": "^19.6.0"
+    "puppeteer-core": "^19.6.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
